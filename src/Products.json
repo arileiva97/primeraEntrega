@@ -1,0 +1,24 @@
+[
+	{
+		"id": 1,
+		"title": "Shorts negros",
+		"description": "Talle M - L - XL",
+		"code": "abc123",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 5,
+		"title": "Shorts rojos",
+		"description": "Talle M - L - XL",
+		"code": "abc127",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	}
+]
